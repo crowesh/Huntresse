@@ -9,6 +9,9 @@ div#site-banner {
   font-size: 1.2em;
   transition: 0.6s ease;
 }
+header {
+  font-family: Lobster, cursive;
+}
 div#sign-up {
     display: block;
     background-color: white;
