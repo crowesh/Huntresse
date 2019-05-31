@@ -43,6 +43,11 @@ main {
   <!-- when site is minimized video is off
   center -->
 }
+iframe {
+  width: 640px;
+  height: 360px;
+  border: 0;
+}
 p {
   font-size: 22px;
 }
