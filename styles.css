@@ -30,9 +30,11 @@ a:hover {
 }
 li {
   display: inline;
-  padding: 0px 100px 0px 100px;
-  <!-- when site is minimized links
-   look messy -->
+  padding: 0vw 3vw 0vw 3vw;
+  position: relative;
+  bottom: 65px;
+  left: 130px;
+  <!-- links still look weird... or is just me?-->
 }
 body {
   text-align: center;
