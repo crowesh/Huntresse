@@ -1,3 +1,6 @@
+<!-- header{  so I'm thinking I would like to see the navigation while scrolling-->
+  position: fixed;
+}
 div#site-banner {
   background-color: rgb(255,255,255);
   color: rgb(0,0,0);
